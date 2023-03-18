@@ -82,11 +82,16 @@ print(type(a))
 # From the output on the terminal, I can see a class of floats was assigned because there was a decimal place.
 
 # Another
-a = 10
-print (type(a))
+b = 10
+print (type(b))
 # <class 'int'>
 
 # Another
 c = 'asdf'
 print (type (c))
 # <class 'str'>
+
+# Another
+d = [1,2,3,4]
+print(type(d))
+# <class 'list'>
