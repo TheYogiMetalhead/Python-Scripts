@@ -9,3 +9,7 @@ My collection of python scripts.
 1. [Hello World](Basic/Hello_World.py)
 
 Literally what everyone starts off with.
+
+2. [Python Variables](Basic/Python_Variables.py)
+
+Just notes on variables and how they work.
