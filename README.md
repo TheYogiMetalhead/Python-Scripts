@@ -1,6 +1,6 @@
 # Python Scripts
 
-My collection of python scripts.
+My collection of python scripts and information.
 
 # Table of Contents
 
