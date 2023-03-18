@@ -33,19 +33,13 @@ print (f)
 # A variable is subject to change. Throughout the life cycle of a program, you will make changes to the value or the assignment of the variable itself, such as:
 
 g = 50
-
 print(g)
-
 g = 60
-
 print(g)
 
 # Deleting a variable. My variable, with a value, has been printed, under that add a delete command, or del, followed by printing the variable. The value is first given us 70 because the variable still existed, but after the deletion, it shows an error saying that a is not defined.
 
 h = 70
-
 print(h)
-
 del h
-
 print(h)
