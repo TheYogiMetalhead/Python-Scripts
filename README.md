@@ -1,2 +1,3 @@
-# Python-Scripts
-A collection of python scripts
+# Python Scripts
+
+My collection of python scripts.
