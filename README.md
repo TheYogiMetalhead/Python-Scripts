@@ -6,6 +6,6 @@ My collection of python scripts.
 
 ## Very Basic
 
-1. Hello World
+1. [Hello World](Basic/Hello_World.py)
 
 Literally what everyone starts off with.
